@@ -1,7 +1,7 @@
-# Bootstrap Components & Fruit website
-    BS Tables
-    BS Images
-    BS Wells
+# Boostrap Components and Fruits website
+    BS Tables  
+    BS Images  
+    BS Wells  
     BS Alerts
     BS Buttons
     BS Button Groups
